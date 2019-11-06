@@ -16,21 +16,21 @@ To more understand what this BETTERCARE  website give us , let’s us dig more i
 *Primary , emergency care and online appointments.
 
 # Technologies:
-*HTML
-*CSS
-*JavaScript
-*Bootstrap 3
-*MYSql
-*Jquery
-*CodeIgniter
+* HTML
+* CSS
+* JavaScript
+* Bootstrap 3
+* MYSql
+* Jquery
+* CodeIgniter
 
 # Plan:
-*Plan for week 8- finish FrontEnd
-*Plan for week 9 - start BackEnd (SQL)
-*Plan for week 10 - Javascript
-*Plan for week 11 - CodeIgniter Framework
-*Plan for week 12 - Add the other pages online appointment and emergency care
-*Plan for week 13 - Finish registrtion system\
-*Plan for week 14 - Optimization FrontEnd and Backend
-*Pland for week 15- Finish project
+* Plan for week 8- finish FrontEnd
+* Plan for week 9 - start BackEnd (SQL)
+* Plan for week 10 - Javascript
+* Plan for week 11 - CodeIgniter Framework
+* Plan for week 12 - Add the other pages online appointment and emergency care
+* Plan for week 13 - Finish registrtion system\
+* Plan for week 14 - Optimization FrontEnd and Backend
+* Pland for week 15- Finish project
 
