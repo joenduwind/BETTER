@@ -1,5 +1,7 @@
 # BETTERCARE
 BETTERCARE is a health solution for sick people or people desiring medical care.
+![28816407-portrait-of-a-smiling-doctors-in-a-an-hospital](https://user-images.githubusercontent.com/56625851/68460451-e4538f80-0242-11ea-9d84-4172355dbd83.jpg)
+
 ## FEATURES:
 To more understand what this BETTERCARE  website give us , let’s us dig more in the features it is offering us to help those searching on the website and how they can use them. Moreover , the website needs to be kindly , as: mobile compatibility , access to all users ,  fast load times ,  effective navigation , good error handling , and some more.
 * Navigation bar containing :
