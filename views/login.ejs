@@ -1,29 +1,40 @@
-
 <%-include("header")-%>
-  
-  <form action="/users/login" method="post" style="padding: 7% 40%;">
-    <%-include("./partials/messages")-%>
-    <h1 style="color:black;">Login Here</h1>
+
+
+  <form action="/users/login" style="padding: 7% 40%;" method="POST">
+    <h3><% include ./partials/messages %></h3>
+    <h1>Login Here</h1>
     <div class="form-row">
-      <input type="email" id="email" name="email" class="form-control" placeholder="Enter Email" />
+      <input type="email" id="email" name="email" class="form-control" placeholder="Enter Email" autocomplete="off" />
     </div>
     <div class="form-row">
       <input type="password" id="password" name="password" class="form-control" placeholder="Enter Password" />
     </div>
     <div class="form-row">
-      <button type="submit" class="btn btn-primary"
-        style="padding-left: 60px;padding-right: 60px;border: 1px solid black"> Go </button>
-      <a href="/users/register" class="btn btn-primary"> Register </a>
-        <a href="/" class="btn btn-secondary"> Go Home </a>
+      <button type="submit" class="btn btn-primary form-control" >
+        Login
+      </button>
     </div>
-    </br>
-
-
-
+    <div class="form-row">
+      <a href="/users/register" class="btn btn-primary form-control">Haven't Sign Up?
+        Register Here </a>
+    </div>
   </form>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.slim.min.js"></script>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.15.0/umd/popper.min.js"></script>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.3.1/js/bootstrap.min.js"></script>
-</body>
+  
 
-</html>
+
+
+
+  <script src="js/jquery.js"></script>
+  <script src="js/bootstrap.min.js"></script>
+  <script src="js/jquery.sticky.js"></script>
+  <script src="js/jquery.stellar.min.js"></script>
+  <script src="js/wow.min.js"></script>
+  <script src="js/smoothscroll.js"></script>
+  <script src="js/owl.carousel.min.js"></script>
+  <script src="js/custom.js"></script>
+  
+
+  </body>
+
+  </html>
