@@ -24,6 +24,14 @@ To more understand what this BETTERCARE  website give us , let’s us dig more i
 * MYSql
 * Jquery
 * CodeIgniter
+* CRUD operations : create,insert,update and delete.
+* register and log in done.
+* node js
+* express js
+* NPM modules
+* package.json
+* routes
+* demo url on some cloud services
 
 # Plan:
 * Plan for week 8- finish FrontEnd
